@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://vadim.platon.md/platvecon25/sitemap.xml

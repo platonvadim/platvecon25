@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "PlatVecon",
+    "description": "",
+    "home_page_url": "https://vadim.platon.md/platvecon25",
+    "feed_url": "https://vadim.platon.md/platvecon25/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Vadim Platon"
+    },
+    "items": [
+        {
+            "id": "https://vadim.platon.md/platvecon25/test.html",
+            "url": "https://vadim.platon.md/platvecon25/test.html",
+            "title": "test",
+            "summary": "test",
+            "content_html": "<p>test</p>",
+            "author": {
+                "name": "Vadim Platon"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-04-09T12:14:12+03:00",
+            "date_modified": "2025-04-09T12:14:12+03:00"
+        }
+    ]
+}
